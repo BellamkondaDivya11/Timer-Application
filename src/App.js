@@ -1,10 +1,10 @@
-import Counter from "./CounterApp/Counter";
+import Timer from "./TimerApp/Timer";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-        <Counter/>
+        <Timer/>
     </div>
   );
 }
