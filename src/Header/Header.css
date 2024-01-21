@@ -1,0 +1,28 @@
+h1 {
+    margin: 0;
+    color: white;
+    font-size: 26px;
+  }
+  .container {
+    background: linear-gradient(45deg, black, darkred, black);
+    height: 70px;
+    display: flex;
+  }
+  .title {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .menus {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  a {
+    color: white;
+    margin-right: 50px;
+    text-decoration: none;
+  }
+  
