@@ -7,7 +7,7 @@ function Login({ login }) {
   });
 
   const authenticateUser = () => {
-    if (user.username === "kabir" && user.password === "kabir@123") {
+    if (user.username === "Divya" && user.password === "Divya@123") {
       login();
     } else {
       alert("Check the Credentials and Enter Proper Credentials");
